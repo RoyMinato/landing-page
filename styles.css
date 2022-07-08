@@ -168,7 +168,7 @@ button.SignUp2 {
 
 .cta-container {
     margin: 100px 200px;
-    background-color: rgb(4, 189, 4);
+    background-color: rgb(47, 197, 47);
     width: 900px;
     height: auto;
     border-radius: 10px;
@@ -194,4 +194,14 @@ button.SignUp2 {
 
 .cta-right {
     display: flex;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(3, 150, 3);
+    color: white;
+    font-size: 20px;
+    padding: 35px;
 }
