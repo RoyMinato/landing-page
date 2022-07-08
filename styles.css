@@ -205,3 +205,17 @@ button.SignUp2 {
     font-size: 20px;
     padding: 35px;
 }
+
+.header,
+.subheaddesc,
+.info,
+.testimony,
+.action-call,
+.footer {
+    font-family: 'Arial';
+}
+
+.subheadtext,
+.content-title {
+    font-family: 'Helvitica';
+}
