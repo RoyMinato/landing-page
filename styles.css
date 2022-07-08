@@ -82,7 +82,8 @@ a {
     height: auto;
 }
 
-button.SignUp {
+button.SignUp,
+button.SignUp2 {
     background: rgb(3, 150, 3);
     border: 1px solid rgb(3, 150, 3);
     color: white;
@@ -91,6 +92,11 @@ button.SignUp {
     font-size: 23px;
     border-radius: 10px;
     font-weight: bold;
+}
+
+button.SignUp2 {
+    border: 2px solid white;
+    margin-top: auto;
 }
 
 .content-title {
@@ -152,4 +158,40 @@ button.SignUp {
     justify-content: flex-end;
     margin-top: 20px;
     font-size: 30px;
+}
+
+.action-call{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cta-container {
+    margin: 100px 200px;
+    background-color: rgb(4, 189, 4);
+    width: 900px;
+    height: auto;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 140px;
+}
+
+.cta-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+.cta-text {
+    font-size: 20px;
+}
+
+.cta-left {
+    display:flex;
+    flex-direction: column;
+}
+
+.cta-right {
+    display: flex;
 }
