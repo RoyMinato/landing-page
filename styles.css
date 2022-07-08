@@ -106,7 +106,7 @@ button.SignUp {
     justify-content: space-between;
     margin-left: 200px;
     margin-right: 200px;
-    margin-bottom: 130px;
+    margin-bottom: 100px;
 }
 
 .contentimg {
@@ -122,10 +122,34 @@ button.SignUp {
     padding-top: 15px;
     padding-bottom: 10px;
 }
+
 .info {
     font-size: 20px;
 }
+
 .infotitle {
     font-size: 30px;
     font-weight: bold;
+}
+
+.testimony {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    background-color: #E5E7EB;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    row-gap: 40px;
+}
+
+.testimony-text {
+    max-width: 800px;
+}
+
+.testimony-name {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    font-size: 30px;
 }
