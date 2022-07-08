@@ -1,6 +1,8 @@
 # landing-page
 This is a landing page project that uses HTML and CSS. This project is more detailed and complex than my previous recipe site project as it uses flexbox in CSS to acheive a much more appealing layout.
 
+Final result is viewable on GitHub Pages: https://royminato.github.io/landing-page/
+
 ## Image Credits
 Photo by <a href="https://unsplash.com/@spacejoy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Spacejoy</a> on <a href="https://unsplash.com/s/photos/interior-design?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
